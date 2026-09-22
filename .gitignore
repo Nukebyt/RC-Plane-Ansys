@@ -1,0 +1,11 @@
+# ANSYS Workbench solver working directories (large binary mesh/solver
+# data, regenerated automatically when the paired .wbpj is reopened)
+mylastbraincell_files/
+plaane2.0_files/
+plane-4-july_files/
+plane_final_DOORDIE_files/
+planes_cfd_files/
+
+# OS junk
+Thumbs.db
+.DS_Store
