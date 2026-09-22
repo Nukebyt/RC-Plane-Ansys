@@ -43,7 +43,7 @@ These runs were used to spot where the design was misbehaving aerodynamically (e
 | Path | Description |
 |---|---|
 | `Aerodynamic analysis of uav.docx` | Full aerodynamic analysis write-up — CFD setup, solver settings, and result screenshots for each run. |
-| `errorless_rcp_abhishekj.step`, `plane_abhiskek_2.step`, `Aircraft Demo.STEP`, `uav+1.stp`, `uav_ansys_abhishek.stp`, `uav_ansys_abhishek_merged.STEP`, `uav2_ansys_pritom.STEP` | CAD geometry exports (STEP) for the airframe across different design iterations. |
+| `errorless_rcp_abhishekj.step`, `plane_2.step`, `Aircraft Demo.STEP`, `uav+1.stp`, `uav_ansys_2.stp`, `uav_ansys_2_merged.STEP`, `uav2_ansys_p.STEP` | CAD geometry exports (STEP) for the airframe across different design iterations. |
 | `plane_final_DOORDIE.wbpj`, `mylastbraincell.wbpj`, `plaane2.0.wbpj`, `plane-4-july.wbpj`, `planes_cfd.wbpj` | ANSYS Workbench project files for each CFD study, each paired with a `*_files/` working directory. |
 | `rc-plane-model-xps-foam-student-model-1.snapshot.3(.zip)` | Reference XPS-foam RC plane model used as an early baseline/reference geometry. |
 | `docs/images/` | Curated screenshots from the CFD runs, embedded above. |
